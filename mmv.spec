@@ -12,6 +12,7 @@ Source2:	changelog
 Patch0:		mmv-1.01b-debian.patch
 Patch1:		mmv-1.01b-makefile.patch
 Patch2:		mmv-1.01b-debian-14.patch
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 This is mmv, a program to move/copy/append/link multiple files
