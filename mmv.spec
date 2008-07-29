@@ -1,6 +1,6 @@
 Name:		mmv
 Version:	1.01b
-Release:	%mkrel 9
+Release:	%mkrel 11
 Summary:	Move/copy/append/link multiple files
 
 Group:		File tools
