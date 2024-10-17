@@ -5,7 +5,7 @@ Summary:	Move/copy/append/link multiple files
 
 Group:		File tools
 License:	GPL
-URL:		http://packages.qa.debian.org/m/mmv.html
+URL:		https://packages.qa.debian.org/m/mmv.html
 Source0:	http://ftp.debian.org/debian/pool/main/m/mmv/mmv_1.01b.orig.tar.gz
 Source1:	copyright
 Source2:	changelog
