@@ -14,6 +14,7 @@ Patch1:		mmv-1.01b-makefile.patch
 Patch2:		mmv-1.01b-debian-14.patch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
+BuildRequires:	make
 %description
 This is mmv, a program to move/copy/append/link multiple files
 according to a set of wildcard patterns. This multiple action is
